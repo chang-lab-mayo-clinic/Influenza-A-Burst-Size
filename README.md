@@ -1,5 +1,5 @@
 # dqPCR and Burst Size Project
-This repo contains data stored for the publication "Influenza A viral burst size from thousands of infected cells using droplet quantitative PCR (dqPCR)" by Zath, et al. The bioRxiv publication is available [here](https://www.biorxiv.org/content/10.1101/2024.02.23.581786v1.full).
+This repo contains data stored for the publication "Influenza A viral burst size from thousands of infected cells using droplet quantitative PCR (dqPCR)" by Zath, et al. The bioRxiv preprint publication is available [here](https://www.biorxiv.org/content/10.1101/2024.02.23.581786v1.full).
 
 The publication data in this repo is stored in folders by manuscript figures (Figure X) and supplementary figures (SI). For Matlab M files, they have been commented to describe how the code works and how the data is processed. For Excel files, they contain their respective figure with linked data for review. Use the following guide to located and review data of interest:
 

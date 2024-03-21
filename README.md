@@ -8,7 +8,7 @@ The publication data in this repo is stored in folders by manuscript figures (Fi
  - Within the Figure 2 folder, open the M file named `Fig2_std_curve_w_unk_data_v1_6_041621.m` to run the code that generated Figure 2. 
  - To view how the standard curve is created, go to **Build Standard Curve** > **10^7 STD** > **std curve** and then run `model_standard_curve_FAM_v3_1.m`.
  - To view the raw fluorescence data collected from drop detection, go to **Build Standard Curve** > **10^7 STD** > **raw data** and then open one of the MAT files. The data is labeled as `std_cycle number_peaks...` wher `std` stands for "standard."
- - To view how the raw data is process to remove noise and potential coalesced drops, go to **Build Standard Curve** > **10^7 STD** > **process data** and then open `processed_delRn_detection_data_std_041621_outlier.m`.
+ - To view how the raw data is processed to remove noise and potential coalesced drops, go to **Build Standard Curve** > **10^7 STD** > **process data** and then open `processed_delRn_detection_data_std_041621_outlier.m`.
 ### Figure 3 - Resolving IAV M Gene RNA Concentrations from Single and Mixed Droplet Populations
 This folder is split between the single and mixed population data in figure 3.
  - Single Populations (Figure 3A-C)
